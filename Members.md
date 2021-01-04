@@ -40,3 +40,11 @@ and a Technical Blogger with special interests in the field of Artificial Intell
 __Tech Stack__:  Flutter, Python, Flask, C/C++, Java, MySQL, Firebase   
 __Social Handles__:  [LinkedIn](https://www.linkedin.com/in/vaidhyanathansm/)  | [GitHub](https://github.com/smv1999) | [Twitter](https://twitter.com/itssmv1999) | [Instagram](https://www.instagram.com/vaidhyanathan.sm/)  
 __Website__:  [Portfolio](http://smv1999.github.io/) | [Google Play Store](https://play.google.com/store/apps/developer?id=Programmers+Gateway)
+
+
+- __Name__: Shivam Sharma
+__Country__: India  
+__About__: Member of Technical Staff at Zettabytes Inc.. Love to work with Javascript. Have experience of React , Node and beginner in Go.  
+__Tech Stack__: Javascript | React | Node | Python | Go
+__Social Handles__:  [Twitter](https://twitter.com/shvmsrma) | [GitHub](https://github.com/shvmstma) |  
+__Website__: [Portfolio](https://shvmsrma.github.io) |
